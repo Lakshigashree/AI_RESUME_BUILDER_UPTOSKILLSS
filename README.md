@@ -2,7 +2,7 @@
 
 A production-grade, full-stack resume building platform designed to help users create professional resumes and optimize them for Applicant Tracking Systems (ATS).
 
-**Repository:** [https://github.com/Lakshigashree/AI_Resume_Builder_Uptoskills](https://github.com/Lakshigashree/AI_Resume_Builder_Uptoskills)
+**Repository:** [https://github.com/Lakshigashree/AI_RESUME_BUILDER_UPTOSKILLSS.git](https://github.com/Lakshigashree/AI_RESUME_BUILDER_UPTOSKILLSS.git)
 
 ---
 
